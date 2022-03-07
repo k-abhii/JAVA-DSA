@@ -15,7 +15,7 @@ public class ExampleFive {
         test.show();
         System.out.println(" X : "+Test.x+ " Y : "+Test.y);
         // class variable 
-        // local variable 
+        // local 
     }
     
 }
