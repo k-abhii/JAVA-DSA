@@ -1,5 +1,4 @@
 package com.abhimanyukumar.java;
-import java.util.*;
 
 public class ExampleThree {
     public static void main(String[] args) {
